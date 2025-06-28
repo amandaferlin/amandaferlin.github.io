@@ -77,7 +77,7 @@
 <div class="container py-5">
     <div class="row align-items-center">
         <div class="col-md-6">
-            <h2>Tentang FurniCraft</h2>
+            <h2>Tentang AtigaMebel</h2>
             <p class="lead">Kami menghadirkan furniture berkualitas tinggi dengan desain modern dan minimalis.</p>
             <p>Setiap produk kami dibuat dengan bahan terbaik dan perhatian terhadap detail. Kami berkomitmen untuk memberikan kenyamanan dan keindahan untuk rumah Anda.</p>
             <div class="row mt-4">

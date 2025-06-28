@@ -216,7 +216,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <h5>FurniCraft</h5>
+                    <h5>AtigaMebel</h5>
                     <p>Menyediakan furniture berkualitas dengan desain modern dan minimalis untuk rumah impian Anda.</p>
                     <div class="mt-3">
                         <a href="#" class="me-3"><i class="fab fa-facebook-f"></i></a>
@@ -237,8 +237,8 @@
                     <h5>Kontak Kami</h5>
                     <ul class="list-unstyled">
                         <li class="mb-2"><i class="fas fa-phone me-2"></i> +62 123 4567 890</li>
-                        <li class="mb-2"><i class="fas fa-envelope me-2"></i> info@furnicraft.com</li>
-                        <li class="mb-2"><i class="fas fa-map-marker-alt me-2"></i> Jakarta, Indonesia</li>
+                        <li class="mb-2"><i class="fas fa-envelope me-2"></i> info@AtigaMebel.com</li>
+                        <li class="mb-2"><i class="fas fa-map-marker-alt me-2"></i> Jepara, Indonesia</li>
                     </ul>
                 </div>
             </div>
